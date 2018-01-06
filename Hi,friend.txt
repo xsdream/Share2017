@@ -1,0 +1,15 @@
+CHS：
+感谢您能抽出时间访问这个站点。
+建这个库是为了和大家分享我的2017经历，通过index.html您可以看到许多我的故事。2017年对我来说是非常有意义的一年，他使我爱上了编程，爱上了前端。我们家也迎来了一位新成员（ps：我还没结婚，不要想歪了）。如果你是我的朋友，或者认识我，一定要为我点赞哦，让我知道你在关注我。
+我的理想是让xsDream成为像jquery一样的厉害的工具，如果你在意xsDream的logo，或许你会看到下方不显眼的一排字“Think less，do all”。是不是有点像jquery的名言呢？在index中我会解释这段话的含义。在xsDreamTool中，你可以看到xsDream.js以及xsDream.css。或许他现在还不成熟，但我会一直开发维护他。
+最后，感谢您的到来！
+
+
+En：
+Thank you for taking the time to visit this site.
+This library was built to share my 2017 experience with index.html and you can see many of my stories. 2017 is a very meaningful year for me, he made me fall in love with programming, fell in love with the front. Our family also ushered in a new member (ps: I am not married, do not want to crooked). If you are my friend, or know me, be sure to like me and let me know that you are following me.
+My ideal is to make xsDream powerful tools like jquery, if you care about xsDream logo, perhaps you will see inconspicuous below the line of "Think less, do all". Is not it a bit like jquery's famous quote? In index I will explain the meaning of this passage. In xsDreamTool, you can see xsDream.js and xsDream.css. Perhaps he is not yet mature, but I will always develop and maintain him.
+Finally, thank you for coming!
+
+
+2018/1/6
